@@ -1,0 +1,15 @@
+{
+  "name": "yabtopup-bot",
+  "version": "1.0.0",
+  "private": true,
+  "main": "broski.js",
+  "scripts": {
+    "start": "node broski.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
